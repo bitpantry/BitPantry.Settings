@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>BitPantry</Authors>
+    <Description>Adds properties around settings to get rid of accessing settings through "magic strings". Includes functionality for easily casting settings properties.</Description>
+    <PackageProjectUrl>https://github.com/bitpantry/BitPantry.Settings</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bitpantry/BitPantry.Settings</RepositoryUrl>
+    <EnableNETAnalyzers>False</EnableNETAnalyzers>
   </PropertyGroup>
 
   <ItemGroup>

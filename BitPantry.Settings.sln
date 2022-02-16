@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPantry.Settings", "BitPantry.Settings\BitPantry.Settings.csproj", "{4770A037-1CF2-4DFA-9A3D-9414F6A2E7F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitPantry.Settings.Test", "BitPantry.Settings.Test\BitPantry.Settings.Test.csproj", "{97A2033D-2E53-40C3-8647-5B738459A63B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4770A037-1CF2-4DFA-9A3D-9414F6A2E7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4770A037-1CF2-4DFA-9A3D-9414F6A2E7F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4770A037-1CF2-4DFA-9A3D-9414F6A2E7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4770A037-1CF2-4DFA-9A3D-9414F6A2E7F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97A2033D-2E53-40C3-8647-5B738459A63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97A2033D-2E53-40C3-8647-5B738459A63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97A2033D-2E53-40C3-8647-5B738459A63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97A2033D-2E53-40C3-8647-5B738459A63B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356AC3BF-26E8-46EA-ACBE-779B53FBD9C1}
+	EndGlobalSection
+EndGlobal
